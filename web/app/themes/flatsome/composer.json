@@ -1,0 +1,17 @@
+{
+  "name": "caotritran/flatsome",
+  "description": "",
+  "keywords": ["wordpress", "theme"],
+  "homepage": "https://github.com/caotritran/flatsome",
+  "authors": [
+    {
+      "name": "uxthemes",
+      "homepage": "https://uxthemes.com/"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=7.4"
+  }
+}
+

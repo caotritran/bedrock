@@ -1,0 +1,17 @@
+{
+  "name": "caotritran/flatsome-child",
+  "description": "",
+  "keywords": ["wordpress", "theme"],
+  "homepage": "https://github.com/caotritran/flatsome-child",
+  "authors": [
+    {
+      "name": "uxthemes",
+      "homepage": "https://uxthemes.com/"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">=7.4"
+  }
+}
+
