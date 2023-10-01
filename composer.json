@@ -44,8 +44,179 @@
     {
       "type": "vcs",
       "url": "git@github.com:caotritran/advanced-custom-fields-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/all-in-one-wp-migration-url-extension.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/automatically-hierarchic-categories-in-menu.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/better-search-replace.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/bulk-menu-creator.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/bunnycdn.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/contact-form-7.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/easy-woocommerce-auto-sku-generator.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/google-listings-and-ads.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/google-site-kit.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/ithemes-security-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/ithemes-sync.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/judgeme-product-reviews-woocommerce.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/manage-notification-emails.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/microsoft-clarity"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/not-customily-1.0.1.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/pinterest-for-woocommerce.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/pixelyoursite-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/product-proxy.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/product-variations-swatches-for-woocommerce.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/pv-envoice.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/pvc-order-tracking.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/pymntpl-paypal-woocommerce.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/s2w-import-shopify-to-woocommerce.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/search-and-replace.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/seo-by-rank-math.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/seo-by-rank-math-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/size-chart-2020.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/tda-back-to-money-site.git"
     }
-
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woo-virtual-reviews.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-advanced-bulk-edit.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-anti-fraud.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-gateway-stripe.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-paypal-payments.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-photo-reviews.git"
+    }
+    ,
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/woocommerce-products-filter.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/wp-auto-spinner.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/wp-file-manager.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/wp-auto-spinner.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/wp-mail-smtp-pro.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/wp-rocket.git"
+    }
   ],
   "require": {
     "php": ">=7.4",
@@ -63,6 +234,46 @@
     "wpackagist-plugin/wordpress-seo":">=7.0.2",
     "caotritran/all-in-one-wp-migration-unlimited-extension": "2.50",
     "caotritran/advanced-custom-fields-pro": "6.2.1.1",
+    "caotritran/all-in-one-wp-migration-url-extension": "2.60",
+    "caotritran/automatically-hierarchic-categories-in-menu": "2.0.2",
+    "caotritran/better-search-replace": "1.3.4",
+    "caotritran/bulk-menu-creator": "5.0",
+    "caotritran/bunnycdn": "1.0.8",
+    "caotritran/contact-form-7": "5.8.1",
+    "caotritran/easy-woocommerce-auto-sku-generator": "1.1.3",
+    "caotritran/google-listings-and-ads": "2.5.7",
+    "caotritran/google-site-kit": "1.109.0",
+    "caotritran/ithemes-security-pro": "7.0.3",
+    "caotritran/ithemes-sync": "2.1.14",
+    "caotritran/judgeme-product-reviews-woocommerce": "1.3.22",
+    "caotritran/manage-notification-emails": "1.8.4",
+    "caotritran/microsoft-clarity": "0.9.3",
+    "caotritran/not-customily-1.0.1": "1.0.1",
+    "caotritran/pinterest-for-woocommerce": "1.3.10",
+    "caotritran/pixelyoursite-pro": "9.10.5",
+    "caotritran/product-proxy": "2.0.0",
+    "caotritran/product-variations-swatches-for-woocommerce": "1.1.1",
+    "caotritran/pv-envoice": "2.0.10",
+    "caotritran/pvc-order-tracking": "1.0.0",
+    "caotritran/pymntpl-paypal-woocommerce": "1.0.35",
+    "caotritran/s2w-import-shopify-to-woocommerce": "1.1.8",
+    "caotritran/search-and-replace": "3.2.1",
+    "caotritran/seo-by-rank-math": "1.0.202",
+    "caotritran/seo-by-rank-math-pro": "3.0.26.1",
+    "caotritran/size-chart-2020": "1.0.0.3",
+    "caotritran/tda-back-to-money-site": "1.0.0",
+    "caotritran/woo-virtual-reviews": "1.2.14",
+    "caotritran/woocommerce": "7.9.0",
+    "caotritran/woocommerce-advanced-bulk-edit": "5.1",
+    "caotritran/woocommerce-anti-fraud": "5.3.0",
+    "caotritran/woocommerce-gateway-stripe": "7.6.0",
+    "caotritran/woocommerce-paypal-payments": "2.2.0",
+    "caotritran/woocommerce-photo-reviews": "1.3.6",
+    "caotritran/woocommerce-products-filter": "3.3.1",
+    "caotritran/wp-auto-spinner": "3.7.6",
+    "caotritran/wp-file-manager": "7.1.9",
+    "caotritran/wp-mail-smtp-pro": "3.6.1",
+    "caotritran/wp-rocket": "3.9.0.5",
     "caotritran/flatsome": "3.16.5",
     "caotritran/flatsome-child": "3.0"
 
