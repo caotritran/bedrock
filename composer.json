@@ -40,6 +40,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:caotritran/flatsome-child.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:caotritran/advanced-custom-fields-pro.git"
     }
 
   ],
@@ -58,8 +62,10 @@
     "wpackagist-plugin/all-in-one-wp-migration":"7.74",
     "wpackagist-plugin/wordpress-seo":">=7.0.2",
     "caotritran/all-in-one-wp-migration-unlimited-extension": "2.50",
+    "caotritran/advanced-custom-fields-pro": "6.2.1.1",
     "caotritran/flatsome": "3.16.5",
     "caotritran/flatsome-child": "3.0"
+
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.7.1",
